@@ -14,3 +14,7 @@ IN-|Negative end of the load (Internally connected to ```GND```)
 MEAS|Analog voltage corresponding to the current flowing through the load📊
 SET|Analog voltage/PWM input to set the desired load current📏
 TEMP|Analog temperature output🌡️
+
+## License
+Creative Commons Attribution Share Alike 4.0 International
+
