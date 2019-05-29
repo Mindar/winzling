@@ -1,3 +1,5 @@
 *-bak
 _autosave-winzling.sch
 gerbers/
+*.bak
+fp-info-cache
