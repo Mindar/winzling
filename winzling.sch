@@ -1,12 +1,13 @@
 EESchema Schematic File Version 5
+LIBS:winzling-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Winzling"
+Date "2019-06-10"
+Rev "v1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -28,8 +29,8 @@ $Comp
 L Miscparts:LMV611 U2
 U 1 1 5CEC9CFA
 P 6150 2950
-F 0 "U2" H 6494 2971 50  0000 L CNN
-F 1 "LMV611" H 6494 2880 50  0000 L CNN
+F 0 "U2" H 6300 3150 50  0000 L CNN
+F 1 "LMV611" H 6250 3250 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-5" H 6150 2950 50  0001 L CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-LMV611MFX-NOPB_C165135.pdf" H 6150 2600 50  0001 L CNN
 	1    6150 2950

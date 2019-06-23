@@ -17,6 +17,7 @@ Winzling is pretty useless by itself, you need some additional components to use
 
 Pin names are documented on the back of the board.
 
+![Finished PCB](./pcb.png)
 ![PCB backside](./front_cropped.png)
 ![PCB backside](./back_cropped.png)
 
